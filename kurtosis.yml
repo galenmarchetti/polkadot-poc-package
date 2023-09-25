@@ -1,1 +1,3 @@
 name: github.com/galenmarchetti/polkadot-poc-package
+description: |
+  A POC for demonstrating form inputs for a Polkadot Parachain Package.
